@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.project.TestWordScramble" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-12T13:43:06" hostname="codespaces-8159a1" time="0.024">
+<testsuite name="com.example.project.TestWordScramble" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-02-12T13:45:47" hostname="codespaces-8159a1" time="0.046">
   <properties/>
-  <testcase name="testScrambleWordPARTA()" classname="com.example.project.TestWordScramble" time="0.021"/>
+  <testcase name="testScrambleWordPARTA()" classname="com.example.project.TestWordScramble" time="0.04"/>
   <testcase name="testScrambleOrRemovePARTB()" classname="com.example.project.TestWordScramble" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
